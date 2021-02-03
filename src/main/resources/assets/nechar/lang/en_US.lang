@@ -1,0 +1,5 @@
+nei.options.nechar=Pinyin
+
+nei.options.nechar.enableHistory=History
+nei.options.nechar.enableHistory.true=Enable History
+nei.options.nechar.enableHistory.false=Disable History
